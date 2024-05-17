@@ -1,3 +1,4 @@
+# aim
 # 4BIT_SYNCHRONOUS_UP_COUNTER
 ![image](https://github.com/RESMIRNAIR/4BIT_SYNCHRONOUS_UP_COUNTER/assets/154305926/4d676d34-2f12-420a-9c55-befa279f5ec0)
 # Truth Table
